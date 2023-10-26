@@ -1,3 +1,3 @@
 ### Status Build
 
-[![Build status](https://ci.appveyor.com/api/projects/status/pj5jujrms2dx7t5g?svg=true)](https://ci.appveyor.com/project/TemaKoli/api-ci-ftth3)
+[![Build status](https://ci.appveyor.com/api/projects/status/8snnc46o7hwbt7r7?svg=true)](https://ci.appveyor.com/project/TemaKoli/api-postman)
